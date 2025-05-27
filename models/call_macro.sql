@@ -1,0 +1,1 @@
+SELECT {{cents_to_dollars('AMOUNT')}} as amount FROM RAW.STRIPE.PAYMENT
